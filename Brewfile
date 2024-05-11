@@ -1,5 +1,7 @@
 tap "homebrew/bundle"
 brew "mise"
+brew "pandoc"
 cask "amethyst"
 cask "insomnia"
+cask "jetbrains-toolbox"
 cask "virtualbox"
