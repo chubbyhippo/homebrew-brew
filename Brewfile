@@ -1,6 +1,8 @@
 tap "homebrew/bundle"
 brew "mise"
+brew "neovim"
 brew "pandoc"
+brew "tmux"
 cask "amethyst"
 cask "insomnia"
 cask "jetbrains-toolbox"
