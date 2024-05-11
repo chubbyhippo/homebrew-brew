@@ -1,2 +1,5 @@
 tap "homebrew/bundle"
+brew "mise"
 cask "amethyst"
+cask "insomnia"
+cask "virtualbox"
