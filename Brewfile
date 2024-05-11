@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+brew "jq"
 brew "mise"
 brew "neovim"
 brew "pandoc"
