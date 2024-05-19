@@ -10,3 +10,8 @@ brew remove --force $(brew list --formula)
 ```
 curl https://raw.githubusercontent.com/chubbyhippo/homebrew/main/Brewfile -o ~/.brewfile
 ```
+## create Brewfile
+```
+brew bundle dump --force
+```
+
