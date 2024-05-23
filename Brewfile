@@ -1,5 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
+brew "cmake"
 brew "jq"
 brew "mise"
 brew "neovim"
