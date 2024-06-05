@@ -1,5 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
+tap "nikitabobko/tap"
 brew "cmake"
 brew "gdb"
 brew "git"
