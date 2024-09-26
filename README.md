@@ -14,4 +14,7 @@ curl https://raw.githubusercontent.com/chubbyhippo/homebrew/main/Brewfile -o ~/.
 ```
 brew bundle dump --force
 ```
-
+## install Brewfile
+```
+brew bundle install
+```
