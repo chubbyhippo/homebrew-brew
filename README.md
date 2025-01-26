@@ -1,20 +1,20 @@
 # homebrew
 ## uninstall all
-```sh
+```shell
 brew remove --cask --force $(brew list)
 ```
-```sh
+```shell
 brew remove --force $(brew list --formula)
 ```
 ## install brewfile
-```sh
+```shell
 curl https://raw.githubusercontent.com/chubbyhippo/homebrew/main/Brewfile -o ~/.brewfile
 ```
 ## create Brewfile
-```sh
+```shell
 brew bundle dump --force
 ```
 ## install Brewfile
-```sh
+```shell
 brew bundle install
 ```
