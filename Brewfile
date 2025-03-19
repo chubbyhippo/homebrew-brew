@@ -1,5 +1,4 @@
 tap "homebrew/bundle"
-tap "nikitabobko/tap"
 brew "bat"
 brew "btop"
 brew "fd"
