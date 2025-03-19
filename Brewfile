@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 tap "nikitabobko/tap"
-tap "railwaycat/emacsmacport"
 brew "bat"
 brew "btop"
 brew "fd"
