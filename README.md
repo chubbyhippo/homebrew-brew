@@ -22,3 +22,6 @@ brew bundle install
 ```shell
 brew cleanup --prune=all --dry-run
 ```
+```shell
+brew cleanup --prune=all
+```
