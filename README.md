@@ -18,3 +18,7 @@ brew bundle dump --force
 ```shell
 brew bundle install
 ```
+## clean up
+```shell
+brew cleanup --prune=all --dry-run
+```
