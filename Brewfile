@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 brew "autoconf"
 brew "bat"
 brew "btop"
