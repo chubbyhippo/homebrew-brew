@@ -8,7 +8,7 @@ brew remove --force $(brew list --formula)
 ```
 ## install brewfile
 ```shell
-curl https://raw.githubusercontent.com/chubbyhippo/homebrew/main/Brewfile -o ~/.brewfile
+curl https://raw.githubusercontent.com/chubbyhippo/homebrew/main/Brewfile -o ~/Brewfile
 ```
 ## create Brewfile
 ```shell
