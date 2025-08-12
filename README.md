@@ -12,7 +12,7 @@ curl https://raw.githubusercontent.com/chubbyhippo/homebrew-brew/refs/heads/main
 ```
 ## create Brewfile
 ```shell
-brew bundle dump --force
+brew bundle dump --force --global
 ```
 ## install Brewfile
 ```shell
