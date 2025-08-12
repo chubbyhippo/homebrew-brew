@@ -16,7 +16,7 @@ brew bundle dump --force --global
 ```
 ## install Brewfile
 ```shell
-brew bundle install
+brew bundle --global
 ```
 ## clean up
 ```shell
