@@ -1,3 +1,4 @@
+tap "nikitabobko/tap"
 brew "autoconf"
 brew "bat"
 brew "btop"
