@@ -1,4 +1,5 @@
 tap "nikitabobko/tap"
+tap "d12frosted/emacs-plus"
 brew "autoconf"
 brew "automake"
 brew "bat"
