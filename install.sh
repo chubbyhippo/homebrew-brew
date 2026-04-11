@@ -2,4 +2,5 @@
 
 brew install ghostty
 brew install mise
+brew install --cask font-jetbrains-mono-nerd-font
 brew install --cask nikitabobko/tap/aerospace
