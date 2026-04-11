@@ -2,3 +2,4 @@
 
 brew install ghostty
 brew install mise
+brew install --cask nikitabobko/tap/aerospace
