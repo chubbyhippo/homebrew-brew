@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
-brew insall ghostty
+brew install ghostty
+brew install mise
