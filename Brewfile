@@ -1,5 +1,4 @@
 tap "borkdude/brew"
-tap "nikitabobko/tap"
 brew "autoconf"
 brew "automake"
 brew "bat"
