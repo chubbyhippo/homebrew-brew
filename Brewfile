@@ -1,4 +1,3 @@
-tap "borkdude/brew"
 brew "autoconf"
 brew "automake"
 brew "bat"
