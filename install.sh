@@ -4,7 +4,7 @@ export HOMEBREW_NO_INSTALL_CLEANUP=1
 brew install --cask font-jetbrains-mono-nerd-font
 brew install --cask nikitabobko/tap/aerospace
 brew install --cask visual-studio-code
-brew install ghostty
+brew install --cask ghostty
 brew install mise
 brew install jq
 brew install lazydocker
