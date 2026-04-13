@@ -7,6 +7,7 @@ brew install --cask visual-studio-code
 brew install --cask ghostty
 brew install --cask bruno
 brew install --cask d12frosted/emacs-plus/emacs-plus-app
+brew install --cask ungoogled-chromium
 brew install mise
 brew install jq
 brew install lazydocker
