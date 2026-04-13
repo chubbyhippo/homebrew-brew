@@ -6,6 +6,7 @@ brew install --cask nikitabobko/tap/aerospace
 brew install --cask visual-studio-code
 brew install --cask ghostty
 brew install --cask bruno
+brew install --cask d12frosted/emacs-plus/emacs-plus-app
 brew install mise
 brew install jq
 brew install lazydocker
