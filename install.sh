@@ -11,6 +11,8 @@ brew install jq
 brew install lazydocker
 brew install neovim
 brew install vim
+brew install tmux
+brew install pandoc
 
 # clean up
 brew cleanup --prune=all
