@@ -22,6 +22,7 @@ brew install ripgrep
 brew install shfmt
 brew install stylua
 brew install telnet
+brew install tlrc
 brew install tmux
 brew install vim
 
