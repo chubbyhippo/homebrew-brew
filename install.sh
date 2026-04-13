@@ -11,6 +11,7 @@ brew install --cask visual-studio-code
 brew install fzf
 brew install jq
 brew install lazydocker
+brew install lazygit
 brew install mise
 brew install neovim
 brew install pandoc
