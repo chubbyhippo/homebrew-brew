@@ -13,6 +13,7 @@ brew install lazydocker
 brew install mise
 brew install neovim
 brew install pandoc
+brew install ripgrep
 brew install shfmt
 brew install stylua
 brew install telnet
