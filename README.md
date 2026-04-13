@@ -25,7 +25,3 @@ brew cleanup --prune=all --dry-run
 ```shell
 brew cleanup --prune=all
 ```
-##
-```sh
-curl https://raw.githubusercontent.com/chubbyhippo/homebrew-brew/refs/heads/main/install.sh | /usr/bin/env sh
-```
