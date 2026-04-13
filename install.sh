@@ -12,6 +12,7 @@ brew install fzf
 brew install jq
 brew install lazydocker
 brew install lazygit
+brew install lsd
 brew install mise
 brew install neovim
 brew install pandoc
