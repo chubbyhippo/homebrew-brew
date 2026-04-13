@@ -13,6 +13,7 @@ brew install vim
 brew install tmux
 brew install pandoc
 brew install shfmt
+brew install telnet
 
 # clean up
 brew cleanup --prune=all
