@@ -14,7 +14,7 @@ curl https://raw.githubusercontent.com/chubbyhippo/homebrew-brew/refs/heads/main
 ```shell
 brew bundle dump --force --global
 ```
-## install Brewfile
+## install softwares
 ```shell
 brew bundle --global
 ```
