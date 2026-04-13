@@ -9,6 +9,7 @@ brew install --cask nikitabobko/tap/aerospace
 brew install --cask ungoogled-chromium
 brew install --cask visual-studio-code
 brew install bat
+brew install btop
 brew install fzf
 brew install jq
 brew install lazydocker
