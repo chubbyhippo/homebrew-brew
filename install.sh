@@ -12,6 +12,7 @@ brew install neovim
 brew install vim
 brew install tmux
 brew install pandoc
+brew install shfmt
 
 # clean up
 brew cleanup --prune=all
