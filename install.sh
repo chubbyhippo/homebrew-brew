@@ -16,6 +16,7 @@ brew install tmux
 brew install pandoc
 brew install shfmt
 brew install telnet
+brew install stylua
 
 # clean up
 brew cleanup --prune=all
