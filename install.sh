@@ -5,6 +5,7 @@ brew install --cask font-jetbrains-mono-nerd-font
 brew install --cask nikitabobko/tap/aerospace
 brew install --cask visual-studio-code
 brew install --cask ghostty
+brew install --cask bruno
 brew install mise
 brew install jq
 brew install lazydocker
