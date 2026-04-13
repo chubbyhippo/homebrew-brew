@@ -8,7 +8,7 @@ brew install --cask visual-studio-code
 brew install ghostty
 brew install mise
 brew install jq
-
+brew install lazydocker
 
 # clean up
 brew cleanup --prune=all
