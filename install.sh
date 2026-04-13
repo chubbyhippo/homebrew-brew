@@ -7,6 +7,8 @@ brew install --cask nikitabobko/tap/aerospace
 brew install --cask visual-studio-code
 brew install ghostty
 brew install mise
+brew install jq
+
 
 # clean up
 brew cleanup --prune=all
