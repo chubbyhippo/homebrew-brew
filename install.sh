@@ -9,6 +9,7 @@ brew install ghostty
 brew install mise
 brew install jq
 brew install lazydocker
+brew install neovim
 
 # clean up
 brew cleanup --prune=all
