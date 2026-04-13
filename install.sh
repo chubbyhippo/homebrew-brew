@@ -10,6 +10,7 @@ brew install mise
 brew install jq
 brew install lazydocker
 brew install neovim
+brew install vim
 
 # clean up
 brew cleanup --prune=all
